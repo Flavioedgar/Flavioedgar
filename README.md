@@ -23,8 +23,10 @@ Estudante de Análise e Desenvolvimento de Sistemas apaixonado por resolver prob
 ---
 
 ### 📫 Como me encontrar
-Linkedin: (www.linkedin.com/in/flavio-junior-desenvolvedor)
-Email: edgarflavio177@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/flavio-junior-desenvolvedor)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarflavio177@gmail.com)
+
 ---
 
 <p align="center">
