@@ -19,7 +19,17 @@ Estudante de Análise e Desenvolvimento de Sistemas apaixonado por resolver prob
 ---
 
 ### 📂 Projetos em Destaque
-* ** Sistema de Lanchonete(https://github.com/Flavioedgar/Sistema-de-Lanchonete-Java):** Gestão de estoque e vendas em Java (CLI) aplicando os pilares de POO.
+* ** 📦 Sistema de Lanchonete (Java + MySQL): Link **[Lanchonete-Java-MySQL](https://github.com/Flavioedgar/Lanchonete-Java-MySQL)**
+
+Descrição: Sistema de gestão de estoque e persistência de dados desenvolvido em Java SE.
+
+Destaques Técnicos: * Implementação do padrão DAO (Data Access Object) para separação de responsabilidades.
+
+Integração com banco de dados MySQL via JDBC.
+
+Aplicação de pilares de POO (Encapsulamento e Associação).
+
+Inclusão de Script SQL para portabilidade do banco de dados.
 ---
 
 ### 📫 Como me encontrar
