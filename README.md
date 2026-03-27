@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas apaixonado por resolver prob
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio.
 - 🎯 Buscando minha primeira oportunidade como **Estagiário de TI / Desenvolvedor Java**.
 - 💡 Interesses: Programação Orientada a Objetos, Estrutura de Dados e Clean Code.
-- 🌱 Atualmente aprofundando conhecimentos em **Java 21** e **Spring Boot**.
+- 🌱 Atualmente aprofundando conhecimentos em **Java 21** e **MySQL**.
 
 ### 🛠 Tecnologias e Ferramentas
 <div id="header" align="left">
