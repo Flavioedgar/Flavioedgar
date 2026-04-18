@@ -19,6 +19,23 @@ Estudante de Análise e Desenvolvimento de Sistemas apaixonado por resolver prob
 ---
 
 ### 📂 Projetos em Destaque
+
+📚 Sistema de Biblioteca (Java + MySQL)
+Link: Sistema-Biblioteca-Java-MySQL
+
+Descrição: Sistema para controle de acervo e empréstimos, focado em organização de código e banco de dados.
+
+Destaques Técnicos:
+
+CRUD Completo: Cadastro, consulta, atualização e exclusão de livros e clientes.
+
+Controle de Estoque: O sistema diminui a quantidade de livros no estoque na hora do empréstimo e devolve ao estoque na devolução.
+
+Banco de Dados Real: Integração com MySQL para salvar todas as informações com segurança.
+
+Organização: Uso de pacotes separados para dividir a lógica do sistema da parte do banco de dados (Padrão Repository).
+
+
 * ** 📦 Sistema de Lanchonete (Java + MySQL): Link **[Lanchonete-Java-MySQL](https://github.com/Flavioedgar/Lanchonete-Java-MySQL)**
 
 Descrição: Sistema de gestão de estoque e persistência de dados desenvolvido em Java SE.
